@@ -1,0 +1,16 @@
+# Java build
+*.class
+/build/
+/out/
+/target/
+
+# IDE
+.idea/
+.vscode/
+*.iml
+.nb-gradle/
+nbproject/private/
+
+# OS
+.DS_Store
+Thumbs.db
